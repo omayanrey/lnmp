@@ -1,5 +1,5 @@
 #!/bin/bash
-. /etc/openvpn/script/config.sh
+. /etc/openvpn/script/config
 
 
 ##PREMIUM##
